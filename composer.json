@@ -1,0 +1,7 @@
+{
+  "name": "purushotam/jquery.countdown",
+  "type": "drupal-library",
+  "description": "jQuery countdown library",
+  "homepage": "https://github.com/purushotamrai/jquery.countdown",
+  "minimum-stability": "dev"
+}
